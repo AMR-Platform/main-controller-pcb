@@ -116,22 +116,38 @@ This controller board integrates motion control, sensing, and communication into
 
 ---
 
+
 ## Images
 
-<!--  
-Add board photos, schematic screenshots, and layout visuals below.  
-Use Markdown image syntax:  
-![Alt text](path/to/image.png)  
--->
 
-![Board Top View](path/to/board-top.png)  
-![Board Bottom View](path/to/board-bottom.png)  
-![Schematic Overview](path/to/schematic-overview.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/top.png" alt="Top view of the custom controller board" width="600" height="400"><br>
+      <strong>Figure 1:</strong> Top view of the assembled PCB showing component placement, USB-C connector,sensor/motor headers and routing of differential pairs.
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/realtop.png" alt="Top view of the custom controller board" width="600" height="400"><br>
+      <strong>Figure 1:</strong> Top view of the assembled PCB showing component placement, USB-C connector,sensor/motor headers and routing of differential pairs.
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="images/bottom.png" alt="Hierarchical schematic overview of the controller board" width="600" height="400"><br>
+      <strong>Figure 3:</strong> Hierarchical schematic overview illustrating modular sheet structure (MCU, power, I/O, sensors, and interfaces).
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/3d.png" alt="Hierarchical schematic overview of the controller board" width="600" height="400"><br>
+      <strong>Figure 3:</strong> Hierarchical schematic overview illustrating modular sheet structure (MCU, power, I/O, sensors, and interfaces).
+    </td>
+  </tr>
+</table>
 
----
 
 ## License
 
-[Specify project license, e.g., MIT License]
+[MIT License]
 
 
