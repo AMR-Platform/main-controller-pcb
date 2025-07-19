@@ -124,23 +124,29 @@ This controller board integrates motion control, sensing, and communication into
   <tr>
     <td align="center">
       <img src="images/top.png" alt="Top view of the custom controller board" width="600" height="400"><br>
-      <strong>Figure 1:</strong> Top view of the assembled PCB showing component placement, USB-C connector,sensor/motor headers and routing of differential pairs.
+      <strong>Figure 1:</strong> Top view of routing.
   </tr>
   <tr>
     <td align="center">
-      <img src="images/realtop.png" alt="Top view of the custom controller board" width="600" height="400"><br>
-      <strong>Figure 1:</strong> Top view of the assembled PCB showing component placement, USB-C connector,sensor/motor headers and routing of differential pairs.
+      <img src="images/realtop.jpg"  style="transform: rotate(90deg);" alt="Top view of the custom controller board" width="600" height="800"><br>
+      <strong>Figure 1:</strong> Top view of the  PCB showing component placement, USB-C connector,sensor/motor headers and routing of differential pairs.
   </tr>
    <tr>
     <td align="center">
       <img src="images/bottom.png" alt="Hierarchical schematic overview of the controller board" width="600" height="400"><br>
-      <strong>Figure 3:</strong> Hierarchical schematic overview illustrating modular sheet structure (MCU, power, I/O, sensors, and interfaces).
+      <strong>Figure 3:</strong>  Bottom view  ground plane, power pours.
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="images/realbottom.jpg" alt="Hierarchical schematic overview of the controller board" width="600" height="800"><br>
+      <strong>Figure 3:</strong>  Bottom view.
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/3d.png" alt="Hierarchical schematic overview of the controller board" width="600" height="400"><br>
-      <strong>Figure 3:</strong> Hierarchical schematic overview illustrating modular sheet structure (MCU, power, I/O, sensors, and interfaces).
+      <strong>Figure 3:</strong> Top 3D view.
     </td>
   </tr>
 </table>
