@@ -24,6 +24,17 @@
 
 
 ---
+# Technical Challenges
+
+## Encoder Signal Acquisition for MCU Integration
+Industrial environments are electrically noisy; stepper motors and long cables can introduce substantial electromagnetic interference, leading to false encoder readings, glitches, and motor missteps.
+
+
+- **Solution**:
+  - Utilize dedicated buffer ic  for splitting encoder signals, which offer high input impedance and proper conversion to logic-level signals for MCUs without loading or distorting the encoder output
+  - Avoid single-ended buffers, preventing signal integrity issues and logic contention
+  - Employ differential receivers (SN75157) to reject common-mode noise before signals reach the MCU, ensuring robust, error-free pulse counting.
+
 
 ## License
 
