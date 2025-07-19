@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Altium\Main_Controller_WO_IMU\Main_Controller.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=main_controller-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=main_controller-slotholes.txt|DrillLayers=gtl,gbl
