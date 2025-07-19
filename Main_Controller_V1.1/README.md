@@ -79,14 +79,15 @@ This controller board integrates motion control, sensing, and communication into
 
 - **Top Level**: Overview sheet with major modules and net labels.  
 - **Sub-Sheets**:  
-  1. MCU & Clock  
-  2. Power & USB-C  
-  3. Encoder Inputs  
-  4. IMU & I²C  
-  5. Analog Sensors & Monitoring  
-  6. Motor Control Outputs  
-  7. Communication Headers  
-  8. User Interface
+  1. MCU & Clock
+  2. Power 
+  3. USB-C  
+  4. Encoder Inputs  
+  5. IMU & I²C  
+  6. Analog Sensors & Monitoring  
+  7. Motor Control Outputs  
+  8. Communication Headers  
+  9. User Interface
 
 ---
 
