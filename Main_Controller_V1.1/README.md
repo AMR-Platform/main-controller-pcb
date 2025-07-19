@@ -50,8 +50,7 @@ This controller board integrates motion control, sensing, and communication into
    - Resettable fuse on VBUS, ESD protection on USB lines.
 
 3. **Encoder Inputs**  
-   - Two SN75157DR differential receivers for quad-A/B encoder signals.  
-   - 120 Ω termination resistors at receiver inputs.  
+   - Two SN75157DR differential receivers for quad-A/B encoder signals.    
    - Routed as 90–120 Ω controlled differential pairs.
 
 4. **Sensor Interface**  
